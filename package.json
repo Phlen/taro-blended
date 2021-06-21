@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@tarojs/plugin-platform-weapp": "^3.2.13"
+  }
+}

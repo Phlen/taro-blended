@@ -54,14 +54,14 @@ Page({
       url: '/taro/pages/index/index'
     })
   },
-  goToFoo () {
-    wx.navigateTo({
-      url: '/taro/subpackages/foo/index'
-    })
-  },
-  goToBar () {
-    wx.navigateTo({
-      url: '/taro/subpackages/bar/index'
-    })
-  }
+  // goToFoo () {
+  //   wx.navigateTo({
+  //     url: '/taro/subpackages/foo/index'
+  //   })
+  // },
+  // goToBar () {
+  //   wx.navigateTo({
+  //     url: '/taro/subpackages/bar/index'
+  //   })
+  // }
 })

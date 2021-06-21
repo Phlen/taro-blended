@@ -3,11 +3,11 @@ const path = require('path')
 
 export default (ctx, options) => {
   ctx.onBuildFinish(() => {
-   
+
     // Taro v3.1.4
-    const blended = ctx.runOpts.blended || ctx.runOpts.options.blended
-    
-    if (!blended) return
+    // const blended = ctx.runOpts.blended || ctx.runOpts.options.blended
+
+    // if (!blended) return
 
     console.log('编译结束！')
 

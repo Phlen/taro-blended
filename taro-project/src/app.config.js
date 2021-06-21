@@ -4,6 +4,9 @@ export default {
     'subpackages/bar/index',
     'subpackages/foo/index'
   ],
+  components: [
+    'pages/index/index'
+  ],
   window: {
     backgroundTextStyle: 'light',
     navigationBarBackgroundColor: '#fff',

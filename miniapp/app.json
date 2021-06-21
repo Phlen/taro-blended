@@ -4,15 +4,6 @@
     "pages/logs/logs",
     "taro/pages/index/index"
   ],
-  "subPackages": [
-    {
-      "root": "taro/subpackages",
-      "pages": [
-        "bar/index",
-        "foo/index"
-      ]
-    }
-  ],
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",

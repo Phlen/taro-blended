@@ -1,4 +1,4 @@
-const taroApp = require('./taro/app.js').taroApp
+const taroApp = require('./taro/taro.js').taroApp
 
 // app.js
 App({

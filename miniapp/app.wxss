@@ -1,4 +1,3 @@
-@import './taro/app.wxss';
 
 /**app.wxss**/
 .container {
